@@ -11,7 +11,7 @@ function checksubmit(){
     alert('Congratulations, you are now signed up to our conference list!');
   }
   
-};
+}
 document.getElementById("myform").addEventListener('submit', checksubmit);
 
 // check the email address against a regular expression
