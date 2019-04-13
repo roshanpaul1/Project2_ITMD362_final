@@ -264,6 +264,35 @@ font-size: 100%;
 IMG{
 	text-align:center;
 	margin-left:350px;
+	margin-bottom:20px;
+	
+}
+
+div1{
+	text-align: center;
+	color: white;
+	background-color: gray;
+	font-size: 100%;
+}
+h3{
+	
+	
+	margin-top:10px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+padding-left: 80px;
+margin-bottom:10px;
+}
+
+h2{
+	
+	margin-left:1px solid black;
+	
+	margin-right:1px solid black;
+	text-align: center;
+	color: white;
+	background-color: gray;
+	font-size: 110%;
 }
 
 
@@ -286,7 +315,8 @@ input {
 	font-size: 75%;
 }
 body {
-	background="media/per.jpg";
+	
+	
 	background-repeat: no-repeat;
 	background-size: 1600px 500px;
 	
@@ -294,7 +324,7 @@ body {
 }
 
 
-
+ 
 /* ===== MODULAR STYLES ===== */
 /* === media queiries === */
 /* 400px Break Point 1: Extra Small Devices, Phones */
