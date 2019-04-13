@@ -264,10 +264,12 @@ border-bottom: 1px solid black;
 }
 IMG{
 	text-align:center;
-	margin-left:400px;
+	margin-left:360px;
 	margin-bottom:20px;
 	
 }
+
+
 
 div1{
 	text-align: center;
@@ -291,7 +293,7 @@ h2{
 	border-left:1px solid black;
 	
 	border-right:1px solid black;
-	padding:15px;
+	padding:20px;
 	text-align: center;
 	color: white;
 	background-color: gray;
