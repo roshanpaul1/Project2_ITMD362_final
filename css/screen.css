@@ -258,6 +258,7 @@ div {
 	margin-top:300px;
 /*background-color: gray; */
 font-size: 100%;
+border-bottom: 1px solid black;
 
 
 }
@@ -275,24 +276,27 @@ div1{
 	font-size: 100%;
 }
 h3{
+
 	
+text-align:center;
+	background-color: gray;
+		padding:25px;
+		border-left:1px solid black;
 	
-	margin-top:10px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-padding-left: 80px;
-margin-bottom:10px;
+	border-right:1px solid black;
+	
 }
 
 h2{
+	border-left:1px solid black;
 	
-	margin-left:1px solid black;
-	
-	margin-right:1px solid black;
-	text-align: center;
+	border-right:1px solid black;
+	padding:15px;
+	text-align: left;
 	color: white;
 	background-color: gray;
 	font-size: 110%;
+	 
 }
 
 
@@ -302,6 +306,7 @@ footer {
 	font: 50px, italic, bold, sans-serif;
     color: white;
 	text-align: center;
+	
 	border: 1px solid black;
 	background-color: gray;
   /*background-color: gray; */
@@ -323,6 +328,14 @@ body {
 	/*background-color: #000000;*/
 }
 
+button{
+	background-color: gray;
+	color:white;
+	border: 1px solid black;
+
+	
+	
+}
 
  
 /* ===== MODULAR STYLES ===== */
