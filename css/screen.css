@@ -268,7 +268,11 @@ IMG{
 	margin-bottom:20px;
 	
 }
-
+IMG1{
+	text-align:center;
+	margin-left:600px;
+	margin-bottom:20px;
+}
 div1{
 	text-align: center;
 	color: white;
@@ -292,7 +296,7 @@ h2{
 	
 	border-right:1px solid black;
 	padding:15px;
-	text-align: left;
+	text-align: center;
 	color: white;
 	background-color: gray;
 	font-size: 110%;
