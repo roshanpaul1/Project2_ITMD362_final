@@ -29,4 +29,27 @@ function checkemail() {
     return false;
   }
 }*/
-
+function validateForm()  {
+	var a=document.forms["myForm"]["firstname"].value;
+	var b=document.forms["myForm"]["lastname"].value;
+	var c=document.forms["myForm"]["Email"].value;
+	
+	if(a == "" )
+	{
+		alert("First Name should be filled");
+		return false;
+	}
+	else if(b == "" )
+	{
+		alert("Last Name should be filled");
+		return false;
+	}
+	else if(c == "" )
+	{
+		alert("Email should be filled");
+		return false;
+	}
+	else{
+		alert("Thank you for signing up! We will email you further details.");
+	}
+}
